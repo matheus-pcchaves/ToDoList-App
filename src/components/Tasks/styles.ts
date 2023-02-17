@@ -26,5 +26,9 @@ export const styles = StyleSheet.create({
         backgroundColor: '#272727',
         alignItems: 'center',
         justifyContent: 'center'
-    },      
+    },  
+    image: {
+        width: 20,
+        height: 24
+    },    
 })

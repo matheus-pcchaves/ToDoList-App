@@ -21,5 +21,11 @@ export const styles = StyleSheet.create({
     fontSize: 36,
     fontWeight: 'bold',
     color: '#5360CE'
+  },
+
+  image: {
+    width: 110,
+    height: 32,
+    marginTop: 10
   }
 })
